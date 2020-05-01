@@ -1,0 +1,4 @@
+exportPattern("^[^\\.]")
+exportPattern("^[[:alpha:]]+")
+useDynLib(happy.hbrem)
+
